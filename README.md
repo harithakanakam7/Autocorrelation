@@ -54,6 +54,8 @@ plot(fw2);
 **Output:**
 <img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/2a83d7b9-a116-4bd6-88c7-69aec8289139" />
 
+**signed output**:
+<img width="1270" height="738" alt="image" src="https://github.com/user-attachments/assets/a7f0d749-6915-4af8-b613-84caafc31291" />
 
 
 **Result:**
